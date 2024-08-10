@@ -1,8 +1,20 @@
 import './Navbar.scss'
 
+import { NavLink } from 'react-router-dom'
+
+
 function Navbar() {
   return (
-    <div>Navbar</div>
+    <nav className='nav-container'>
+        <NavLink to={'/'}>
+            Logo
+        </NavLink>
+        <div className='nav-links'>
+            <p>link</p>
+            <p>link</p>
+            <p>link</p>
+        </div>
+    </nav>
   )
 }
 
