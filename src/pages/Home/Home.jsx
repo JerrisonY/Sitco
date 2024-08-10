@@ -1,12 +1,14 @@
 import './Home.scss'
 import { NavLink } from 'react-router-dom'
 
-import RotateDevice from '../../components/RotateDevice.jsx'
+import Navbar from '../../components/Navbar'
 
 function Home() {
   return (
     <>
-        <RotateDevice />
+        <Navbar />
+
+
     </>
   )
 }
