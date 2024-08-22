@@ -1,4 +1,12 @@
+$header-color: #EF413D;
+
 @mixin default-link {
     text-decoration: none;
     color: black;
+}
+
+@mixin bodycopy {
+    color: #666;
+    font-size: 1.3em;
+    line-height: 1.5em;
 }

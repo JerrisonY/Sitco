@@ -1,0 +1,16 @@
+@import '../styles/library.scss';
+
+.about-c {
+    width: 70%;
+    margin: 150px auto;
+    
+
+    h1 {
+        color: $header-color;
+        margin: 0;
+    }
+
+    p {
+        @include bodycopy;
+    }
+}
