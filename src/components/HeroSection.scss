@@ -1,0 +1,43 @@
+@import '../styles/library.scss';
+
+.hero-c {
+    width: 100%;
+    height: 100vh;
+    background-image: url('src/assets/img/landingimg.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-text-c {
+    color: white;
+    background-color: rgba($color: #000000, $alpha: 0.7);
+    width: 60vw;
+    height: 50vh;
+    padding: 50px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    text-align: center;
+
+    h1 {
+        margin: 0;
+        font-size: clamp(2.5vw, 3.5em, 4vw);
+    }
+
+    .hero-sub { 
+        font-size: clamp(1vw, 1.5em, 2vw);
+        width: 50%;
+    }
+
+    .hero-btn {
+        padding: 15px 30px;
+        background-color: #EF413D;
+        font-size: clamp(1vw, 1.5em, 2vw);
+    }
+}
