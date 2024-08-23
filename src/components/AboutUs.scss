@@ -4,14 +4,26 @@
     width: 70%;
     margin: 150px auto;
     
-
     h1 {
         color: $header-color;
-        font-size: clamp(2vw, 3em, 3vw);
-        margin: 0;
+        font-size: clamp(2em, 3vw, 3em);
+        margin: 0 0 25px;
+    }
+
+    .section-subhead {
+        @include subhead;
     }
 
     p {
         @include bodycopy;
+    }
+
+    .about-img-c {
+        display: flex;
+        grid-gap: 15px;
+        margin: 60px 0;
+        img {
+
+        }
     }
 }

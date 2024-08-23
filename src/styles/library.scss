@@ -10,3 +10,10 @@ $header-color: #EF413D;
     font-size: 1.3em;
     line-height: 1.5em;
 }
+
+@mixin subhead {
+    color: $header-color;
+    font-size: 1.2em;
+    font-weight: 600;
+    margin: 70px 0 15px 0;
+}
