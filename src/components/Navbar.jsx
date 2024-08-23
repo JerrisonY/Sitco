@@ -1,19 +1,18 @@
 import './Navbar.scss'
-import { NavLink } from 'react-router-dom'
-
+import { Link } from 'react-scroll';
 import SitcoLogo from '/Sitco.svg'
 
 function Navbar() {
   return (
     <nav className='nav-container'>
-        <NavLink to={'/'}>
+        <Link to='hero' smooth={true}>
             <img src={SitcoLogo} alt="" style={{height: '40px'}}/>
-        </NavLink>
+        </Link>
         <div className='nav-links'>
-            <NavLink>About Us</NavLink>
-            <NavLink>Services</NavLink>
-            <NavLink>Quality</NavLink>
-            <NavLink>Contact Us</NavLink>
+            <Link to='about-us' smooth={true}>About Us</Link>
+            <Link to='services' smooth={true}>Services</Link>
+            <Link to='quality' smooth={true}>Quality</Link>
+            <Link to='contact' smooth={true}>Contact Us</Link>
         </div>
     </nav>
   )

@@ -15,7 +15,7 @@ import imgTwo from '../assets/img/about-img-2.jpg'
 
 function AboutUs() {
   return (
-    <div className='about-c'>
+    <div className='about-c' id='about-us'>
         <h1>About Us</h1>
         <hr />
         <p className='section-subhead'>HISTORY</p>
@@ -40,7 +40,7 @@ function AboutUs() {
 
         <h1>Services</h1>
         <hr />
-        <div className='services-c'>
+        <div className='services-c' id='services'>
             <p>{SERVICES}</p>
             <img src={imgOne} alt="" />
         </div>
