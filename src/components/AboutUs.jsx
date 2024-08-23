@@ -7,6 +7,8 @@ import {
     ABOUT_EDM_ONE,
     ABOUT_EDM_TWO,
     ABOUT_EDM_THREE, 
+    SERVICES,
+
     } from '../lib/constants'
 
 import imgOne from '../assets/img/about-img-1.png'
@@ -36,6 +38,13 @@ function AboutUs() {
         <p>{ABOUT_EDM_TWO}</p>
         <br />
         <p>{ABOUT_EDM_THREE}</p>
+
+        <h1>Services</h1>
+        <hr />
+        <div className='services-c'>
+            <p>{SERVICES}</p>
+            <img src={imgOne} alt="" />
+        </div>
     </div>
   )
 }

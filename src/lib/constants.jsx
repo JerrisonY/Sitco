@@ -9,3 +9,7 @@ export const ABOUT_EDM_ONE = 'We manufacture EDM defects in a wide range of mate
 export const ABOUT_EDM_TWO = 'Four of our nine Sodick EDM Machines have five-axis capabilities. Our largest Wire EDM Table travel is 12”x8” with a maximum cutting thickness of approximately 7”. The largest vertical EDM Table travel is 18”x15.4”. We also have one Sodick K1C machine, which is a specialized, high-speed, small-hole drilling machine using the EDM process.'
 
 export const ABOUT_EDM_THREE = "Our large investment in precision tooling and inspection equipment allows us to work to very close tolerances, often in the range of plus or minus 0.0002 of an inch (0.005 mm). The instruments used in manufacturing and inspection are calibrated and traceable to national standards. Our Quality Assurance Program is set to CSA Z299.3."
+
+export const SERVICES = `Lorem ipsum dolor sit amet consectetur. Hac praesent in nam ultrices fusce orci orci adipiscing. Accumsan id in habitasse urna pretium amet et id. Lobortis tellus lectus congue sed id fermentum. Non consequat purus risus sit. Tellus nulla nunc scelerisque sagittis vel sed viverra turpis libero. Nibh nisl feugiat arcu donec. At feugiat quis quam metus turpis dui quisque id feugiat. Sit cursus porta ipsum eu eu vitae elementum.
+
+Nibh lacus sed mauris amet bibendum mattis. Commodo risus lorem eu massa morbi. Leo morbi id nunc lectus quam. Tempus vitae amet cras bibendum sit. Faucibus tempus ut augue.`

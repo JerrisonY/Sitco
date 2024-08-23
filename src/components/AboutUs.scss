@@ -2,12 +2,12 @@
 
 .about-c {
     width: 70%;
-    margin: 150px auto;
+    margin: 0 auto;
     
     h1 {
         color: $header-color;
         font-size: clamp(2em, 3vw, 3em);
-        margin: 0 0 25px;
+        margin: 130px 0 25px;
     }
 
     .section-subhead {
@@ -22,8 +22,15 @@
         display: flex;
         grid-gap: 15px;
         margin: 60px 0;
-        img {
+    }
 
+    .services-c {
+        display: flex;
+        margin-top: 70px;
+        grid-gap: 50px;
+
+        img {
+            height: 350px;
         }
     }
 }
