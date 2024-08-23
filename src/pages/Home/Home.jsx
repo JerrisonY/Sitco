@@ -6,6 +6,7 @@ import AboutUs from '../../components/AboutUs'
 import LogoSection from '../../components/LogoSection'
 import QualitySection from '../../components/QualitySection'
 import Contact from '../../components/Contact'
+import Footer from '../../components/Footer'
 
 function Home() {
   return (
@@ -15,6 +16,7 @@ function Home() {
       <LogoSection />
       <QualitySection />
       <Contact />
+      <Footer />
     </>
   )
 }
