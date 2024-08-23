@@ -13,3 +13,7 @@ export const ABOUT_EDM_THREE = "Our large investment in precision tooling and in
 export const SERVICES = `Lorem ipsum dolor sit amet consectetur. Hac praesent in nam ultrices fusce orci orci adipiscing. Accumsan id in habitasse urna pretium amet et id. Lobortis tellus lectus congue sed id fermentum. Non consequat purus risus sit. Tellus nulla nunc scelerisque sagittis vel sed viverra turpis libero. Nibh nisl feugiat arcu donec. At feugiat quis quam metus turpis dui quisque id feugiat. Sit cursus porta ipsum eu eu vitae elementum.
 
 Nibh lacus sed mauris amet bibendum mattis. Commodo risus lorem eu massa morbi. Leo morbi id nunc lectus quam. Tempus vitae amet cras bibendum sit. Faucibus tempus ut augue.`
+
+export const QUALITY = `Lorem ipsum dolor sit amet consectetur. Adipiscing scelerisque in in sed auctor id in mus purus. Elit viverra aliquam diam nunc non aliquet adipiscing ut. Facilisi odio quam et sit a pulvinar. Aliquam diam enim ut nulla. Sem vitae dui dolor dictum. Venenatis et quam a turpis purus.
+
+Nisi tempus adipiscing venenatis praesent eu facilisis. Mauris nec ipsum vel etiam interdum non. Molestie vel lectus dapibus ut vitae. Dignissim in facilisis at rhoncus. Amet in amet pretium tincidunt sit. Mattis mi massa ut nam. Nibh elementum vel porta magna pharetra. In parturient sed lorem malesuada enim. Urna consequat eget volutpat cras cras. A tristique pellentesque dignissim scelerisque. Fringilla neque at tempor turpis aliquam. Sollicitudin aliquam pretium tortor habitant neque quis sem. Nunc scelerisque penatibus bibendum.`

@@ -8,7 +8,6 @@ import {
     ABOUT_EDM_TWO,
     ABOUT_EDM_THREE, 
     SERVICES,
-
     } from '../lib/constants'
 
 import imgOne from '../assets/img/about-img-1.png'
